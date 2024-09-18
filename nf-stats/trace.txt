@@ -1,0 +1,9 @@
+task_id	hash	native_id	name	status	exit	submit	duration	realtime	%cpu	rss	vmem	rchar	wchar
+1	fb/925994	10595	dockerPreconditions	COMPLETED	0	2019-07-02 14:24:33.686	5.6s	3.1s	54.2%	33.2 MB	571.8 MB	38 MB	41.4 MB
+2	78/8b2241	10997	validateInputFormat	COMPLETED	0	2019-07-02 14:24:39.347	1.1s	130ms	0.0%	10.3 MB	35.1 MB	553.3 KB	0
+3	ea/aa27c5	11288	getQueryIds	COMPLETED	0	2019-07-02 14:24:40.536	1.2s	133ms	0.0%	9.8 MB	32.6 MB	417.2 KB	0
+4	16/61cf9a	11580	ValidateInputIds (1)	COMPLETED	0	2019-07-02 14:24:41.703	1.3s	33ms	0.0%	9.8 MB	34.6 MB	414.8 KB	0
+5	44/ccee52	11878	SnPrecisionMetrics (1)	COMPLETED	0	2019-07-02 14:24:43.040	1.4s	194ms	0.0%	9.8 MB	32.6 MB	418.7 KB	0
+6	c1/0aba7a	11904	RobinsonFouldsMetrics (1)	COMPLETED	0	2019-07-02 14:24:43.053	1.5s	281ms	227.0%	39.8 MB	475.7 MB	5.3 MB	12.7 KB
+7	c6/61d0ec	12525	manage_assessment_snprecision (Performing benchmark assessment and building plots)	COMPLETED	0	2019-07-02 14:24:44.454	6.4s	1.2s	119.0%	63.8 MB	588.3 MB	10.6 MB	374.8 KB
+8	be/38a976	12574	manage_assessment_rfheatmap (Performing benchmark assessment and building plots)	COMPLETED	0	2019-07-02 14:24:44.553	6.4s	895ms	269.2%	38.7 MB	510.6 MB	8.4 MB	10 B

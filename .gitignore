@@ -1,0 +1,14 @@
+# Custom
+datasets/inputDataset/data/
+
+# Virtualenv
+virtualenv/
+
+# Nextflow
+.nextflow*
+work/
+#results/
+results1/
+
+#jupyter
+.ipynb_checkpoints
