@@ -1,18 +1,3 @@
-{
-    "challenges_ids": "gmi",
-    "participant_id": "participant6",
-    "metrics": {
-        "x": {
-            "type": "metrics",
-            "units": "none",
-            "name": "sensitivity",
-            "value": 0.14285714285714285
-        },
-        "y": {
-            "type": "metrics",
-            "units": "none",
-            "name": "precision",
-            "value": 0.05
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f033a77de9839b7318d34b3258cf5da3db35370919fa20de13c0aaad9ddba9a9
+size 399

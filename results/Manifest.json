@@ -1,16 +1,3 @@
-[
-    {
-        "id": "gmi",
-        "participants": [
-            "participant1_snprecision.json",
-            "participant4_snprecision.json",
-            "participant7_snprecision.json",
-            "participant3_snprecision.json",
-            "ref_snprecision.json",
-            "participant2_snprecision.json",
-            "ISCIII_TOOL_snprecision.json",
-            "participant5_snprecision.json",
-            "participant6_snprecision.json"
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:805abae65b450525ff4b1f0d0c83323ae5cad9e8b3be7436d5e833dda9fd4d38
+size 466

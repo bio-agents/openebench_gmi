@@ -1,18 +1,3 @@
-{
-    "challenges_ids": "gmi",
-    "participant_id": "isciii",
-    "metrics": {
-        "x": {
-            "type": "metrics",
-            "units": "none",
-            "name": "Unweighted Robinson-Foulds metric",
-            "value": 0
-        },
-        "y": {
-            "type": "metrics",
-            "units": "none",
-            "name": "Weighted Robinson-Foulds metric",
-            "value": 0.0
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4069366bcc198b40a58c7cb549ee9aad6e43a1fc8bb9eecc079e4674a0b4f01e
+size 418
